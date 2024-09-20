@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanka Nadella</h1>
 <h3 align="center">A computer science major at the University of Maryland, College Park. I am also minoring in Robotics and Autonomous Systems and Tech entrepreneurship!</h3>
 
-- 🔭 I’m currently working on A dynamic website for a competitive dance team at UMD (coming soon ...)
+- 👨‍💻 My projects are available below!
 
-- 👨‍💻 My projects are available below
-
-- 📫 How to reach me **priyankanadella.dev@gmail.com**
+- 📫 How to reach me: **priyankanadella.dev@gmail.com**
 
 <p align="left">
 </p>
